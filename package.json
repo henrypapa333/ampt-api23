@@ -13,6 +13,7 @@
     "nanoid": "^4.0.1"
   },
   "ampt": {
-    "app": "ampt-api"
+    "app": "ampt-api23",
+    "org": "boatsguy2012707229"
   }
 }
